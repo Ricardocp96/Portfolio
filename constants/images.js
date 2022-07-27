@@ -25,7 +25,7 @@ import about04 from '../assets/about04.png';
 
 
 import circle from '../assets/circle.svg';
-
+import cover from '../assets/new.png'
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -62,7 +62,7 @@ export default {
   about04,
 
   circle,
-
+  cover,
   adidas,
   amazon,
   asus,
