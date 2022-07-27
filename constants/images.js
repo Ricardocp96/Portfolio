@@ -34,7 +34,7 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
-import Ricardo from '../assets/logo1.png';
+import Ricardo from '../assets/logo.png';
 import ricardoprofile from '../assets/Ricardo_best_portfolio.png'
 export default {
   email,
