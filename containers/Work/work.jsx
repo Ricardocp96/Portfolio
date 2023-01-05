@@ -38,7 +38,7 @@ const Work = () => {
 
   return (
     <>
-      <h2 className="head-text">My Creative <span>Portfolio</span> Section🎉</h2>
+      <h2 className="head-text">Research and  <span>Projects</span> 🎉</h2>
 
       <div className="app__work-filter">
         {['Artificial Intelligence', 'Web Apps', 'Mobile Apps', 'React JS', 'All'].map((item, index) => (

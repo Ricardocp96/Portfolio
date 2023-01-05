@@ -22,11 +22,11 @@ const About = () => {
   return (
   <>
   <h2 className="head-text">
-    I know that 
-    <span>Quality Development</span>
+    Inovating   
+    <span>Through Code</span>
     <br/>
-    means
-    <span>High Impact</span>
+    
+    <span></span>
   </h2>
   <div className="app__profiles">
     

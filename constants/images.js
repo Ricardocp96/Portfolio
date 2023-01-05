@@ -36,6 +36,8 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import Ricardo from '../assets/logo.png';
 import ricardoprofile from '../assets/Ricardo_best_portfolio.png'
+import devlogo from '../assets/dev.webp'
+import showcase from '../assets/mobilerevamp.png'
 export default {
   email,
   mobile,
@@ -72,4 +74,6 @@ export default {
   spotify,
   Ricardo,
   ricardoprofile,
+  devlogo,
+  showcase,
 };
